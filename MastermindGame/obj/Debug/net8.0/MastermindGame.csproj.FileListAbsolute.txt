@@ -1,0 +1,14 @@
+E:\dev\MastermindGame\MastermindGame\bin\Debug\net8.0\MastermindGame.exe
+E:\dev\MastermindGame\MastermindGame\bin\Debug\net8.0\MastermindGame.deps.json
+E:\dev\MastermindGame\MastermindGame\bin\Debug\net8.0\MastermindGame.runtimeconfig.json
+E:\dev\MastermindGame\MastermindGame\bin\Debug\net8.0\MastermindGame.dll
+E:\dev\MastermindGame\MastermindGame\bin\Debug\net8.0\MastermindGame.pdb
+E:\dev\MastermindGame\MastermindGame\obj\Debug\net8.0\MastermindGame.GeneratedMSBuildEditorConfig.editorconfig
+E:\dev\MastermindGame\MastermindGame\obj\Debug\net8.0\MastermindGame.AssemblyInfoInputs.cache
+E:\dev\MastermindGame\MastermindGame\obj\Debug\net8.0\MastermindGame.AssemblyInfo.cs
+E:\dev\MastermindGame\MastermindGame\obj\Debug\net8.0\MastermindGame.csproj.CoreCompileInputs.cache
+E:\dev\MastermindGame\MastermindGame\obj\Debug\net8.0\MastermindGame.dll
+E:\dev\MastermindGame\MastermindGame\obj\Debug\net8.0\refint\MastermindGame.dll
+E:\dev\MastermindGame\MastermindGame\obj\Debug\net8.0\MastermindGame.pdb
+E:\dev\MastermindGame\MastermindGame\obj\Debug\net8.0\MastermindGame.genruntimeconfig.cache
+E:\dev\MastermindGame\MastermindGame\obj\Debug\net8.0\ref\MastermindGame.dll
